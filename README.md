@@ -1,2 +1,2 @@
 # dblog
-ddd理解
+用ddd设计blog
